@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FallDetectionApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="fall_detection">FALL DETECTION</string>
+    <string name="trigger_fall_detection">START</string>
+    <string name="disable_fall_detection">EXIT</string>
+    <string name="fall_detection_activated">Fall Detection application is Running</string>
+    <string name="fall_detected">Fall occurred</string>
+    <string name="emergency_contact_person_name_value">Group 3</string>
+    <string name="emergency_contact_phone_number_value">911</string>
+    <string name="emergency_contact_message">Update Emergency contact!</string>
+    <string name="update_details">Update</string>
+    <string name="contact_person_name">Full Name</string>
+    <string name="contact_phone_number">Phone Number</string>
+    <string name="emergency_contact_update">Emergency Contact Detail Updated</string>
+</resources>
